@@ -1,0 +1,1 @@
+Android-based offline messaging appication designed to enable seamless communication between nearby users without the need for an active internet connection. Built using Java and XML in Android Studio, the app leverages the Nearby Connections API to establish peer-to-peer connection over Bluetooth and Wi-Fi Direct.
